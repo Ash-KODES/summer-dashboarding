@@ -5,7 +5,7 @@
 
 Create in one month, the most amazing set of open source dashboards templates for C-level and management teams.
 
-Dashboards topics:
+Dashboards topics :
 
 - 0/ World situation
 - 1/ Financial markets
