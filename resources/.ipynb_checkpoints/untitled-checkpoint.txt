@@ -1,0 +1,13 @@
+# Resources
+
+## Dash
+- (Official documentation)[]
+- (Build a Complete Social Media Analysis Dashboard with Dash Plotly in Python)[https://www.youtube.com/watch?v=b-tawVKOJkY]
+
+
+## Streamlit
+- (Official documentation)[https://docs.streamlit.io/]
+
+
+## Panel
+- (Official documentation)[https://panel.holoviz.org/]
