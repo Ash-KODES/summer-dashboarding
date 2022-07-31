@@ -1,7 +1,7 @@
-#📊 Summer Dashboarding 
+# 📊 Summer Dashboarding 
 
 
-##Mission
+## Mission
 
 Create in one month, the most amazing set of open source dashboards templates for C-level and management teams.
 
@@ -49,7 +49,7 @@ Dashboards topics :
 - 39/ Cyber security
 
 
-##Tools
+## Tools
 
 **Dashboarding:** 
 - Plotly / Dash
@@ -61,7 +61,7 @@ Dashboards topics :
 - (Faker)[https://github.com/joke2k/faker] to generate fake/synthetic data
 
 
-##Methodology
+## Methodology
 
 1. Pick one dashboard topic
 1. Analyze the corresponding example in the "screenshots" folder
