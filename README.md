@@ -61,7 +61,7 @@ Dashboards topics :
 - (Faker)[https://github.com/joke2k/faker] to generate fake/synthetic data
 
 
-## Methodology
+## How to contribute?
 
 1. Pick one dashboard topic
 1. Analyze the corresponding example in the "screenshots" folder
